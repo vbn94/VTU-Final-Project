@@ -1,0 +1,10 @@
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\bin\Release\MecanumWheelsControl.exe.config
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\bin\Release\MecanumWheelsControl.exe
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\bin\Release\MecanumWheelsControl.pdb
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.MecanumControl.resources
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.Properties.Resources.resources
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.csproj.GenerateResource.cache
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.csproj.CoreCompileInputs.cache
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.exe
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.pdb
+C:\MECCANUM-WinForms\MecanumWheelsControl\MecanumWheelsControl\obj\Release\MecanumWheelsControl.csprojAssemblyReference.cache
